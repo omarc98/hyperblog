@@ -1,0 +1,7 @@
+Hola soy Omar
+
+Un estudiante, dibujante y soñador 
+
+que intenta entender el que hacer con la vida 
+
+// el programa me detecta que esto es un repositorio por ponerse en verde el titulo en la pestaña 
