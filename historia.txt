@@ -1,7 +1,10 @@
 Hola soy Omar de 23 años
 
 Un estudiante, dibujante y soñador 
-
 que intenta entender el que hacer con la vida 
 
+Hoy hablaremos del dibujo 
+
 // el programa me detecta que esto es un repositorio por ponerse en verde el titulo en la pestaña 
+
+Siempre tener fe en lo que se hace y dar todo de si para lograr alcanzar una meta u objetivo.
