@@ -6,5 +6,5 @@ que intenta entender el que hacer con la vida
 Hoy hablaremos del dibujo 
 
 // el programa me detecta que esto es un repositorio por ponerse en verde el titulo en la pestaña 
-se arreglea
+se arregle
 Siempre tener fe en lo que se hace y dar todo de si para lograr alcanzar una meta u objetivo.
